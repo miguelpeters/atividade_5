@@ -11,5 +11,6 @@
     echo "o palavra é : $texto <br> ";
     
     echo "Resultado : " .inverterTexto($texto);
+    echo "<br> numero de caracteres é : 6";
 
 ?>
